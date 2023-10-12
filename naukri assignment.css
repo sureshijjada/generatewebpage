@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.card {
+    min-height: 100vh;
+    background-color: #3f1f80;
+    padding: 30px;
+    color: white;
+}
+
+.bgColor {
+    background-color: #3f1f80;
+}
+
+.navTxt {
+    color: #fdfcff !important;
+    font-size: 15px;
+}
+
+.button {
+    height: 30px !important;
+    width: 80px !important;
+    border-radius: 12px !important;
+}
+
+.card_1 {
+    height: 400px;
+    padding: 5px;
+    margin: 10px;
+    color: white;
+    width: 300px;
+}
+
+.heading {
+    font-size: 10px;
+    color: white;
+
+}
+
+.btn {
+    height: 30px;
+    width: 100px;
+    border-radius: 10px;
+    color: white;
+    background-color: #cc3d53;
+    padding: 3px;
+    font-size: 13px;
+}
+
+.card_2 {
+    height: 400px;
+    width: 400px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 10px;
+    text-align: center;
+
+}
+
+.heading_1 {
+    font-size: 25px;
+    color: black;
+    font-weight: 700;
+}
+
+.input {
+    height: 30px;
+    width: 70%;
+    border: 1px solid grey;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.text {
+    text-align: left;
+}
+
+.label {
+    font-size: 12px;
+    color: #adaaaa;
+    margin: 2px;
+}
+
+.span {
+    font-size: 15px;
+    color: #adaaaa;
+    width: 20px;
+}
+
+.sign_in {
+    height: 30px;
+    width: 70%;
+    background-color: #271df0;
+    border-radius: 15px;
+    border-width: 0px;
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 13px;
+}
+
+.line {
+    width: 80px;
+}
+
+.login {
+    height: 30px;
+    width: 70%;
+    background-color: #1d8ef0;
+    border-radius: 15px;
+    border-width: 0px;
+    color: white;
+    margin-top: 3px;
+    font-size: 13px;
+}
+
+.last {
+    font-size: 12px;
+    color: #137af0;
+}
+
+.lastText {
+    font-size: 12px;
+    color: #a1a5ab;
+    margin-top: 5px;
+}
